@@ -12,10 +12,10 @@
 
 </td>
 <td valign="top"  width="60%">
+<h3>Github Streaks </h3>
 
-### Github Streaks 
   
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mynxg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LetTTGACO" style="height: 220px" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mynxg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LetTTGACO" style="height: 210px" /></p>
 </td>
 </tr>
 

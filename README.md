@@ -10,8 +10,8 @@
 
 </td>
 <td valign=" middle"  width="60%">
+<h3>Github Activity</h3>
 
-### Github Activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)

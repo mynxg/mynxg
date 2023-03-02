@@ -28,4 +28,4 @@
 ![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)
 
 ### Github 贡献图
-[![keney's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mynxgi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![keney's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)

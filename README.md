@@ -9,18 +9,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynxg&langs_count=6&theme=tokyonight)
 
 </td>
-<td valign=" middle"  width="60%">
+<td width="60%">
 <h3>Github Activity</h3>
-
-
+<p style="img{display:block;margin:0 auto;}">
 [![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)
-
+</p>
 </td>
 </tr>
 
 <tr>
-<td valign=" middle"  width="50%">
+<td valign="middle"  width="50%">
 
 ### Github Streaks 
   

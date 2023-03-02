@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynxg&langs_count=6&theme=tokyonight)
 
 </td>
-<td width="60%">
+<td valign="top"  width="60%">
 <h3>Github Activity</h3>
 <p style="img{display:block;margin:0 auto;}">
 

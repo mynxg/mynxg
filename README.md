@@ -2,14 +2,15 @@
 <table style="border-collapse:collapse;">
   
 <tr>
-<td valign="top"  width="50%">
+<td valign="top"  width="35%">
 
 ### 编程语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynxg&langs_count=6&theme=tokyonight)
 
 </td>
-<td valign="top"  width="50%">
+<td valign="top"  width="60%">
 ### Github 活跃度
+
 [![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)
 
@@ -23,6 +24,7 @@
 </td>
 <td valign="top"  width="50%">
 ### Github 贡献图
+
 [![keney's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td>

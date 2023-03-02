@@ -8,16 +8,14 @@
 |
 <h3>Github Activity </h3>
 [![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)
 |
 | 
 
 ![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)
 |
 ### Github Streaks 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mynxg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
-(https://github-readme-streak-stats.herokuapp.com/?user=mynxg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=mynxg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 |
 |
 

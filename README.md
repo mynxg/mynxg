@@ -1,7 +1,9 @@
 
 ### About
+
 - Here👇
-- ![](https://visitor-badge.glitch.me/badge?page_id=BarryYangi.BarryYangi)
+
+- ![](https://visitor-badge.glitch.me/badge?page_id=mynxg.mynxg)
 
 <table style="border-collapse:collapse;">
   

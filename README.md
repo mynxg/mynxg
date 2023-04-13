@@ -15,6 +15,15 @@
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
+
+<!-- <h3>Github Activity</h3>
+<p style="img{display:block;margin:0 auto;}">
+
+[![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![keney's github stats](https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3)
+</p> -->
+
+
 **🐱 My GitHub Data** 
 
 > 🏆 151 Contributions in the Year 2023
@@ -28,16 +37,7 @@
 > 🔑 11 Private Repositories  
  > 
 
-<h3>Github Activity</h3>
-<p style="img{display:block;margin:0 auto;}">
 
-
-<h3>Github Activity</h3>
-<p style="img{display:block;margin:0 auto;}">
-
-[![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![keney's github stats](https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3)
-</p>
 
 📊 **This Week I Spent My Time On** 
 

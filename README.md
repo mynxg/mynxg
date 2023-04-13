@@ -5,45 +5,64 @@
 
 - ![](https://visitor-badge.glitch.me/badge?page_id=mynxg.mynxg)
 
-<table style="border-collapse:collapse;">
-  
-<tr>
-<td valign="top"  width="35%">
+### ⚡️ A Few Quick Facts
+
+<img align="right" src="https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+
+<ul>
+    <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
+    <li> 👯 I’m looking to collaborate on anything open source.</li>
+    <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
+    <li> ⚡ Fun fact: I ❤️ 😻.</li>
+</ul>
+**🐱 My GitHub Data** 
+
+> 🏆 151 Contributions in the Year 2023
+ > 
+> 📦 222.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+
+<h3>Github Activity</h3>
+<p style="img{display:block;margin:0 auto;}">
+
+
 <h3>Github Activity</h3>
 <p style="img{display:block;margin:0 auto;}">
 
 [![](https://activity-graph.herokuapp.com/graph?username=mynxg&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![keney's github stats](https://github-readme-stats.vercel.app/api?username=mynxg&show_icons=true&theme=tokyonight)
+![keney's github stats](https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3)
 </p>
 
-</td>
-<td valign="top"  width="60%">
-<h3>Github Streaks </h3>
+📊 **This Week I Spent My Time On** 
 
-  
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mynxg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="LetTTGACO" style="height: 210px" /></p>
-</td>
-</tr>
+```text
+⌚︎ Time Zone: Asia/Shanghai
 
-<tr>
-<td valign="middle"  width="50%">
+💬 Programming Languages: 
+Java                     5 hrs 26 mins       ██████████████████░░░░░░░   72.22% 
+XML                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+HTTP Request             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
 
-### programing language
+🔥 Editors: 
+IntelliJ                 7 hrs 31 mins       █████████████████████████   100.0%
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynxg&langs_count=6&theme=tokyonight)
+💻 Operating System: 
+Mac                      7 hrs 31 mins       █████████████████████████   100.0%
 
-</td>
-<td valign="top"  width="50%">
+```
 
-</td>
-</tr>
- <tr>
-<td colspan="2">
 
-### Github Contribution diagram
+ Last Updated on 12/04/2023 08:25:43 UTC
+<!--END_SECTION:waka-->
 
-[![keney's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-</td>
-</tr>
-</table>
+---
+
+[![https://vercel.com/mynxg/github-readme-stats-i](https://cdn.jsdelivr.net/gh/dmego/images/img/powered-by-vercel.svg)](https://vercel.com/mynxg/github-readme-stats-i)

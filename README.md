@@ -5,15 +5,15 @@
 
 - ![](https://visitor-badge.glitch.me/badge?page_id=mynxg.mynxg)
 
-### ⚡️ A Few Quick Facts
+### ⚡️ My Activity
 
 <img align="right" src="https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
+    <li> 🌱 I’m currently learning Java、Spring、SpringMVC、Mybatis-plus、Docker、Kubernetes.</li>
     <li> 👯 I’m looking to collaborate on anything open source.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
-    <li> ⚡ Fun fact: I ❤️ 😻.</li>
+    <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
 </ul>
 
 <!-- <h3>Github Activity</h3>
@@ -24,7 +24,7 @@
 </p> -->
 ### 🌗 Development Breakdown
 
-<img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
+<img src="https://komarev.com/ghpvc/?username=mynxg" alt=" mynxg" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue)

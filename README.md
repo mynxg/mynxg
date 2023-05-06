@@ -3,7 +3,8 @@
 
 - Here👇
 
-- ![](https://visitor-badge.glitch.me/badge?page_id=mynxg.mynxg)
+- ！[](https://komarev.com/ghpvc/?username=mynxg.mynxg&color=green)
+<!-- - ![](https://visitor-badge.glitch.me/badge?page_id=mynxg.mynxg) -->
 
 ### ⚡️ My Activity
 

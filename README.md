@@ -28,13 +28,13 @@
 <img src="https://komarev.com/ghpvc/?username=mynxg" alt=" mynxg" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 235 Contributions in the Year 2023
+> 🏆 236 Contributions in the Year 2023
  > 
 > 📦 212.9 kB Used in GitHub's Storage 
  > 
@@ -47,10 +47,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-🌆 Daytime    114 commits    ██████████████░░░░░░░░░░░   58.16% 
-🌃 Evening    63 commits     ████████░░░░░░░░░░░░░░░░░   32.14% 
-🌙 Night      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
+🌆 Daytime    115 commits    ██████████████░░░░░░░░░░░   58.38% 
+🌃 Evening    63 commits     ████████░░░░░░░░░░░░░░░░░   31.98% 
+🌙 Night      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
 
 ```
 
@@ -61,18 +61,19 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GitIgnore file           10 mins             ████████████████████████░   98.9% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 10 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/07/2023 08:19:12 UTC
+ Last Updated on 08/07/2023 08:17:22 UTC
 <!--END_SECTION:waka-->
 
 ---

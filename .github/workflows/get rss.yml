@@ -1,12 +1,12 @@
 name: Get recent rss post
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - auto-get
   #     - master
-  # release:
-  #   types: [published]
+  release:
+    types: [published]
   watch:
     types: [started]
   schedule:

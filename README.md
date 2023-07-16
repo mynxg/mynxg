@@ -46,12 +46,17 @@
     <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
+
+- ![](https://komarev.com/ghpvc/?username=mynxg&color=green)
+
 </ul>
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="./media/line.webp"></a>
 
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%9C%9F%E7%BB%8F%E4%B8%80%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%81%87%E7%BB%8F%E4%BC%A0%E4%B8%87%E5%8D%B7%EF%BC%81)](https://git.io/typing-svg)
+
+- 
 
 ### <a title="My Blog Site" target="_blank" href="http://blog.nnxx.me"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-blog.nnxx.me-orange" /></a>
 <!-- BLOG-POST-LIST:START -->

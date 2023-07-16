@@ -31,7 +31,7 @@
 
 <div align="center" >
   
-[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/)[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/atom.xml)[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/mynxg)[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)![GIT](https://img.shields.io/badge/-Git-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)![Java](https://img.shields.io/badge/-Java-%23EEEEEE?logo=Java&style=for-the-badge&logoColor=black)![Kernel](https://img.shields.io/badge/-Kernel-%234FC08D?logo=linux&style=for-the-badge&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?logo=MySQL&style=for-the-badge&logoColor=black)
+[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/)[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/atom.xml)[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/mynxg)[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)![GIT](https://img.shields.io/badge/-Git-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)![Java](https://img.shields.io/badge/-Java-%23EEEEEE?logo=Java&style=for-the-badge&logoColor=black)![Redis](https://img.shields.io/badge/-Dedis-%234FC08D?logo=Redis&style=for-the-badge&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?logo=MySQL&style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -42,7 +42,7 @@
 <img align="right" src="https://github-readme-stats-i.vercel.app/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Java、Spring、SpringMVC、Mybatis-plus、Docker.</li>
+    <li> 🌱 I’m currently learning Java、MySQL、SSM、SpringBoot、Mybatis-plus、Docker、Git、Redis、Dubbo、RPC.</li>
     <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
@@ -69,7 +69,7 @@
 <!--
 ### Hi there 👋
 
-**appotry/appotry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mynxg/mynxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...

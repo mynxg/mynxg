@@ -39,39 +39,32 @@
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
 
 <img align="right" src="https://ghstats.17lai.site/api?username=mynxg&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
-🤗 &nbsp;你好~ 我是 [**keney**](https://blog.lxip.top/)，linux architectures. Linux System Programer, Embeded Linux engineer.
-
-🌈 &nbsp;My Skill | 我的技术: C/C++, Linux Device Driver, Linux System Program, Linux System architecture,  IOT, IPC/DVR/NVR, ETC
+<ul>
+    <li> 🌱 I’m currently learning Java、Spring、SpringMVC、Mybatis-plus、Docker.</li>
+    <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
+    <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
+    <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
+</ul>
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
 
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%9C%9F%E7%BB%8F%E4%B8%80%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%81%87%E7%BB%8F%E4%BC%A0%E4%B8%87%E5%8D%B7%EF%BC%81)](https://git.io/typing-svg)
 
-### Blogs posts
+### <a title="My Blog Site" target="_blank" href="http://blog.nnxx.me"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-blog.nnxx.me-orange" /></a>
 <!-- BLOG-POST-LIST:START -->
-- [实用工具](http://www.nnxx.me/posts/7450bfcb.html)
-- [多服务器监测面板](http://www.nnxx.me/posts/719f7c63.html)
-- [frp实现远程桌面连接](http://www.nnxx.me/posts/e7d9824f.html)
-- [有趣的项目推荐](http://www.nnxx.me/posts/111e0cd7.html)
+| [实用工具](http://www.nnxx.me/posts/7450bfcb.html)
+| [多服务器监测面板](http://www.nnxx.me/posts/719f7c63.html)|
+| [frp实现远程桌面连接](http://www.nnxx.me/posts/e7d9824f.html)
+| [有趣的项目推荐](http://www.nnxx.me/posts/111e0cd7.html) |
 <!-- BLOG-POST-LIST:END -->
 
-## 精品博文推荐
-
-| [海思MPP&UNF构架源代码级分析](https://blog.17lai.site/posts/13894dce/) | [如何编写Linux驱动？](https://blog.17lai.site/posts/ed364362/) | [**自建全套开源Devops开发系统**](https://blog.17lai.site/posts/ab63eb8f/) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [**全套自建Hexo博客教程**](https://blog.17lai.site/posts/40300608/) | [**超全博客写作技巧教程**](https://blog.17lai.site/posts/253706ff/) | [**自建全套家庭多媒体中心**](https://blog.17lai.site/posts/9912bd5d/) |
-
-
-## <a title="My Blog Site" target="_blank" href="https://blog.17lai.site/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-blog.17lai.site-orange" /></a> 最近博文:  -- 自动获取于 2023-07-16 01:09:55
-* 2023-03-24 - [开源观察之到底是谁在主导开源软件生态的发展？](https://blog.17lai.site/posts/bd70a73c/            )
-* 2023-03-24 - [如何创建属于自己的私人资料库与私人搜索引擎](https://blog.17lai.site/posts/8f152670/            )
-* [更多文章...](https://blog.lxip.top/) 
 
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%81)](https://git.io/typing-svg)
 
-<h2 align="center">如果这些项目，感觉对你有用，或者感觉有趣，给个Star呗！ 😄 反正Star又不花钱。</h2>
+<!-- <h2 align="center">如果这些项目，感觉对你有用，或者感觉有趣，给个Star呗！ 😄 反正Star又不花钱。</h2> -->
 
 <!--
 ### Hi there 👋

@@ -47,7 +47,7 @@
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
 
-![](https://komarev.com/ghpvc/?username=mynxg&color=green)
+    <li> ![](https://komarev.com/ghpvc/?username=mynxg&color=green) </li>
 
 </ul>
 

@@ -63,8 +63,10 @@
 - [有趣的项目推荐](http://blog.nnxx.me/posts/111e0cd7.html)
 <!-- BLOG-POST-LIST:END -->
 
-📊 &nbsp;**This week I spent my time on**
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%81)](https://git.io/typing-svg)
+
+📊 &nbsp;**This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=keney&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!-- <h2 align="center">如果这些项目，感觉对你有用，或者感觉有趣，给个Star呗！ 😄 反正Star又不花钱。</h2> -->
 

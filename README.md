@@ -31,15 +31,15 @@
 
 <div align="center" >
   
-[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.17lai.site)[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://cdn.jsdelivr.net/gh/appotry/hexo@latest/atom.xml)[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/appotry)[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)![Shell](https://img.shields.io/badge/-Shell-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)![C/C++](https://img.shields.io/badge/-C/C++-%23EEEEEE?logo=C&style=for-the-badge&logoColor=black)![Kernel](https://img.shields.io/badge/-Kernel-%234FC08D?logo=linux&style=for-the-badge&logoColor=white)![AIOT](https://img.shields.io/badge/-AIOT-yellowgreen?logo=IOTA&style=for-the-badge&logoColor=black)
+[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/)[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/atom.xml)[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/mynxg)[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)![Shell](https://img.shields.io/badge/-Shell-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)![C/C++](https://img.shields.io/badge/-C/C++-%23EEEEEE?logo=C&style=for-the-badge&logoColor=black)![Kernel](https://img.shields.io/badge/-Kernel-%234FC08D?logo=linux&style=for-the-badge&logoColor=white)![AIOT](https://img.shields.io/badge/-AIOT-yellowgreen?logo=IOTA&style=for-the-badge&logoColor=black)
 
 </div>
 
 <!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
+<a href="https://github.com/404"><img src="./media/line.webp"></a>
 
 <!-- <img align="right" src="https://ghstats.17lai.site/api?username=mynxg&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" /> -->
-<img align="right" src="https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+<img align="right" src="https://github-readme-stats-i.vercel.app/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
     <li> 🌱 I’m currently learning Java、Spring、SpringMVC、Mybatis-plus、Docker.</li>
@@ -49,7 +49,7 @@
 </ul>
 
 <!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
+<a href="https://github.com/404"><img src="./media/line.webp"></a>
 
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%9C%9F%E7%BB%8F%E4%B8%80%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%81%87%E7%BB%8F%E4%BC%A0%E4%B8%87%E5%8D%B7%EF%BC%81)](https://git.io/typing-svg)
 

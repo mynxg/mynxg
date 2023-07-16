@@ -37,7 +37,7 @@ jobs:
        sudo mkdir -p /home/runner/work/artifacts/
        cd /home/runner/work/artifacts/
        sudo git clone https://github.com/mynxg/mynxg.git 
-       cd /home/runner/work/artifacts/appotry
+       cd /home/runner/work/artifacts/mynxg
        sudo git config user.name "mynxg"
        sudo git config user.email "mynxg@qq.com"
        sudo rm -f README.md

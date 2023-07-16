@@ -46,9 +46,6 @@
     <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
-
-    <li> ![](https://komarev.com/ghpvc/?username=mynxg&color=green) </li>
-
 </ul>
 
 <!--Trap--:)-->

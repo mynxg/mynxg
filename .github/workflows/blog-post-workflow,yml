@@ -1,9 +1,19 @@
 name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-    workflow_dispatch:
-    push: {branches: ["auto-get"]}
+on:
+  push:
+    branches:
+      - auto-get
+  #     - master
+  # release:
+  #   types: [published]
+  watch:
+    types: [started]
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # UTC 17:00 -> CST (China) 1:00, see https://datetime360.com/cn/utc-cst-china-time/
+    - cron: '0 * * * *'
+   workflow_dispatch:
+
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts

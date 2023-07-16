@@ -79,12 +79,12 @@ def loadPostsByRSS():
         return []
 
 # 常量定义
-POSTS_RSS_URL = 'https://blog.lxip.top/atom.xml'
+POSTS_RSS_URL = 'https://blog.nnxx.me/atom.xml'
 
 TO_REPLACE_POSTS = '{{Recent Posts}}'
 TO_REPLACE_DATE = '{{Generated At}}'
 
-BLOG_URL_PREFIX = 'https://blog.lxip.top'
+BLOG_URL_PREFIX = 'https://blog.nnxx.me'
 
 RECENT_POST_LIMIT = 12
 

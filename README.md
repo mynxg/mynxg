@@ -49,6 +49,14 @@
 
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%9C%9F%E7%BB%8F%E4%B8%80%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%81%87%E7%BB%8F%E4%BC%A0%E4%B8%87%E5%8D%B7%EF%BC%81)](https://git.io/typing-svg)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [「关于证明我是一名 JS 程序员这件事」](https://www.barryi.me/posts/JsWork.html)
+- [生成一个有趣的链接](https://www.barryi.me/posts/eeeLink.html)
+- [「富豪谷底求翻身」](https://www.barryi.me/posts/UnderDog.html)
+- [一个访问全球互联网的“备用机”](https://www.barryi.me/posts/CloudflareZeroTrust.html)
+<!-- BLOG-POST-LIST:END -->
+
 ## 精品博文推荐
 
 | [海思MPP&UNF构架源代码级分析](https://blog.17lai.site/posts/13894dce/) | [如何编写Linux驱动？](https://blog.17lai.site/posts/ed364362/) | [**自建全套开源Devops开发系统**](https://blog.17lai.site/posts/ab63eb8f/) |

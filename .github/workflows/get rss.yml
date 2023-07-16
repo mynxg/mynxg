@@ -3,10 +3,10 @@ name: Get recent rss post
 on:
   push:
     branches:
-      - auto-get
+      - test
   #     - master
-  release:
-    types: [published]
+  # release:
+  #   types: [published]
   watch:
     types: [started]
   schedule:

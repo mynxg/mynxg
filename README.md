@@ -55,10 +55,10 @@
 
 ### <a title="My Blog Site" target="_blank" href="http://blog.nnxx.me"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-blog.nnxx.me-orange" /></a>
 <!-- BLOG-POST-LIST:START -->
-| [实用工具](http://www.nnxx.me/posts/7450bfcb.html)
-| [多服务器监测面板](http://www.nnxx.me/posts/719f7c63.html)|
-| [frp实现远程桌面连接](http://www.nnxx.me/posts/e7d9824f.html)
-| [有趣的项目推荐](http://www.nnxx.me/posts/111e0cd7.html) |
+- [实用工具](http://www.nnxx.me/posts/7450bfcb.html)
+- [多服务器监测面板](http://www.nnxx.me/posts/719f7c63.html)
+- [frp实现远程桌面连接](http://www.nnxx.me/posts/e7d9824f.html)
+- [有趣的项目推荐](http://www.nnxx.me/posts/111e0cd7.html)
 <!-- BLOG-POST-LIST:END -->
 
 

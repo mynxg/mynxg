@@ -51,10 +51,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [「关于证明我是一名 JS 程序员这件事」](https://www.barryi.me/posts/JsWork.html)
-- [生成一个有趣的链接](https://www.barryi.me/posts/eeeLink.html)
-- [「富豪谷底求翻身」](https://www.barryi.me/posts/UnderDog.html)
-- [一个访问全球互联网的“备用机”](https://www.barryi.me/posts/CloudflareZeroTrust.html)
+- [实用工具](http://www.nnxx.me/posts/7450bfcb.html)
+- [多服务器监测面板](http://www.nnxx.me/posts/719f7c63.html)
+- [frp实现远程桌面连接](http://www.nnxx.me/posts/e7d9824f.html)
+- [有趣的项目推荐](http://www.nnxx.me/posts/111e0cd7.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 精品博文推荐

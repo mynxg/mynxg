@@ -42,7 +42,7 @@
 <img align="right" src="https://github-readme-stats-i.vercel.app/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Java、MySQL、SSM、SpringBoot、Mybatis-plus、Docker、Git、Redis、Dubbo、RPC.</li>
+    <li> 🌱 I’m currently learning Java、SSM、SpringBoot、Mybatis-plus、Docker、Redis、Dubbo、RPC.</li>
     <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->

@@ -1,13 +1,17 @@
 name: mynxg get blog post workflow
 on:
-  push:
-    branches:
-      - auto-get
-  workflow_dispatch:
-  schedule:
+    schedule:
+        - cron: '0 * * * *'
+    workflow_dispatch:
+    push: {branches: ["auto-get", "main","test"]}
+  #push:
+   # branches:
+     # - auto-get
+  #workflow_dispatch:
+  #schedule:
     # * is a special character in YAML so you have to quote this string
     # UTC 17:00 -> CST (China) 1:00, see https://datetime360.com/cn/utc-cst-china-time/
-    - cron: "0 8 * * *"
+    #- cron: "0 8 * * *"
         # 每月最后一天10:15分运行
     # - cron: '0 15 10 L * ?'
     # 每月第一天0:0分运行

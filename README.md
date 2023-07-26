@@ -37,9 +37,9 @@
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="./media/line.webp"></a>
-
+<!--https://star.mynxg.eu.org/api?username=mynxg&show_icons=true&theme=dark-->
 <!-- <img align="right" src="https://ghstats.17lai.site/api?username=mynxg&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" /> -->
-<img align="right" src="https://github-readme-stats-i.vercel.app/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+<img align="right" src="https://star.mynxg.eu.org/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
     <li> 🌱 I’m currently learning Java、SSM、SpringBoot、Mybatis-plus、Docker、Redis、Dubbo、RPC.</li>

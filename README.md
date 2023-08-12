@@ -40,10 +40,6 @@
  <tr>
 <td colspan="2">
 
-### Github Contribution diagram
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue" />
-
 </td>
 </tr>
 </table>

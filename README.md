@@ -43,7 +43,8 @@
 ### Github Contribution diagram
 
 [![keney's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+
+[![Netease recently played]([https://netease-recent-profile.vercel.app/?id=126764012&title=最近在听&size=60](https://netease-recent-profile.nnxx.me/?id=494601014&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&number=8&column=2&size=60))](https://netease-recent-profile.nnxx.me/?id=494601014&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&number=8&column=2&size=60)
 </td>
 </tr>
 </table>

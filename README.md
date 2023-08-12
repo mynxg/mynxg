@@ -42,9 +42,8 @@
 
 ### Github Contribution diagram
 
-![keney's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mynxg&theme=vue" />
 
-<img src="https://netease-recent-profile-fd2juhpp6-mynxg.vercel.app/?id=494601014&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&number=8&column=2&size=60"/>
 </td>
 </tr>
 </table>

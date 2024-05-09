@@ -4,7 +4,7 @@
 <!--
 ([![This is me]&#40;https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E4%BD%A0%E7%9C%8B%E5%88%B0%EF%BC%8C%E4%BD%A0%E6%83%B3%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E5%90%AC%E5%88%B0%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E7%9B%B8%E4%BF%A1%EF%BC%8C%E4%BD%A0%E6%83%B3%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%81&#41;]&#40;https://git.io/typing-svg&#41;)
 -->
-
+<!--
 <div align="center">
     <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/iranparrot.webp" width="25" height="25"/>
@@ -31,6 +31,7 @@
     <img src="/media/pic/parrots/hypnoparrotdark.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/mustacheparrot.webp" width="25" height="25"/>
 </div>
+-->
 
 <div align="center" >
   
@@ -45,7 +46,7 @@
 <img align="right" src="https://star.mynxg.eu.org/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Dubbo、RPC、xxl-job、设计模式、DDD.</li>
+    <li> 🌱 I’m currently learning Dubbo、RPC、xxl-job、design patterns、DDD.</li>
     <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->

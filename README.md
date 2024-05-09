@@ -105,7 +105,7 @@
 <h2>❤️ Support Me</h2>
 
 <p>
-<a href="https://www.buymeacoffee.com/mynxg">
+<a href="https://ko-fi.com/mynxg">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>

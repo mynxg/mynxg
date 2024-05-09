@@ -35,7 +35,15 @@
 
 <div align="center" >
   
-[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/)[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/atom.xml)[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/mynxg)[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)![GIT](https://img.shields.io/badge/-Git-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)![Java](https://img.shields.io/badge/-Java-%23EEEEEE?logo=Java&style=for-the-badge&logoColor=black)![Redis](https://img.shields.io/badge/-Redis-%234FC08D?logo=Redis&style=for-the-badge&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?logo=MySQL&style=for-the-badge&logoColor=black)
+[![Blog](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/)
+[![RSS](https://img.shields.io/badge/RSS-orange.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://blog.nnxx.me/atom.xml)
+[![Github](https://img.shields.io/badge/-Github-%23EEEEEE?logo=Github&style=for-the-badge&logoColor=black)](https://github.com/mynxg)
+[![Docker](https://img.shields.io/badge/-Docker-%232496ED?logo=Docker&style=for-the-badge&logoColor=black)](https://hub.docker.com/u/bloodstar)
+![Linux](https://img.shields.io/badge/-Linux-%257A143?logo=Linux&style=for-the-badge&logoColor=black)
+![GIT](https://img.shields.io/badge/-Git-%233776AB?logo=Windows%20Terminal&style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23EEEEEE?logo=Java&style=for-the-badge&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-%234FC08D?logo=Redis&style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?logo=MySQL&style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -55,7 +63,9 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="./media/line.webp"></a>
 
+<!--
 [![This is me](https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%9C%9F%E7%BB%8F%E4%B8%80%E5%8F%A5%E8%AF%9D%EF%BC%8C%E5%81%87%E7%BB%8F%E4%BC%A0%E4%B8%87%E5%8D%B7%EF%BC%81)](https://git.io/typing-svg)
+-->
 
 ![](https://komarev.com/ghpvc/?username=mynxg&color=green)
 
@@ -67,7 +77,8 @@
 - [有趣的项目推荐](http://blog.nnxx.me/posts/111e0cd7.html)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ([![This is me]&#40;https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%81&#41;]&#40;https://git.io/typing-svg&#41;)
+<!-- 
+([![This is me]&#40;https://readme-typing-svg.herokuapp.com/?size=30&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E5%90%AC%E5%88%B0%E7%9A%84%EF%BC%9B%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%8C%E6%98%AF%E5%88%AB%E4%BA%BA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9B%B8%E4%BF%A1%E7%9A%84%EF%BC%81&#41;]&#40;https://git.io/typing-svg&#41;)
 -->
 
 <h2>🚀 Languages and Tools I Use</h2>

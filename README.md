@@ -54,7 +54,7 @@
 <img align="right" src="https://star.mynxg.eu.org/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Dubbo、RPC、xxl-job、design patterns、DDD.</li>
+    <li> 🌱 I’m currently learning Dubbo、RPC、XXL-JOB、Design Patterns、DDD.</li>
     <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
     <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
     <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->

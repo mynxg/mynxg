@@ -1,28 +1,18 @@
-name: WakaTime Stats
-
+name: Update gist with WakaTime stats
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "10 7 * * *"
-
+    - cron: "0 0 * * *"
+  # Manual triggers with workflow_dispatch
+  workflow_dispatch:
 jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: wakatime-gist
-        uses: abordage/wakatime-box@master
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
         env:
-          # SUPPORTED: last_7_days, last_30_days, last_6_months, last_year
-          INPUT_DATE_RANGE: last_7_days
-          # NUMBER OF LANGUAGES DISPLAYED
-          INPUT_MAX_RESULT: 5
-          #
-          INPUT_PRINT_SUMMARY: true
-          INPUT_USE_OLD_FORMAT: false
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          INPUT_GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_WAKA_API_KEY: ${{ secrets.WAKA_API_KEY }}
-          INPUT_GIST_ID: ${{ secrets.GIST_ID }}
-          INPUT_WAKATIME_BASE_URL: ${{ secrets.WAKATIME_API_KEY }}

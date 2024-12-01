@@ -1,9 +1,12 @@
 name: mynxg get blog post workflow
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 8 * * *"
-
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: "0 8 * * *"
+  push:
+    branches:
+      - develop
+      
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts

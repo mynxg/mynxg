@@ -115,6 +115,11 @@
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=keney&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
+📊 &nbsp;**Total code time**
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=icatw&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 <!-- <h2 align="center">如果这些项目，感觉对你有用，或者感觉有趣，给个Star呗！ 😄 反正Star又不花钱。</h2> -->
 
 <!--

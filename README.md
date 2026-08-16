@@ -58,10 +58,10 @@
 <img align="right" src="https://star.mynxg.eu.org/api?username=mynxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <ul>
-    <li> 🌱 I’m currently learning Golang,Python,harness engineering.</li>
-    <li> 👯 I’m looking to collaborate on anything open souI often learn from open source projects.</li>
-    <li> 📝 I regulary write articles on <a href="https://blogs.lxip.top">https://blogs.lxip.top</a>.</li>
-    <!-- <li> ⚡ Fun fact: I ❤️ 😻.</li> -->
+    <li> 🌱 Building tools with Go and Next.js.  </li>
+    <li> 🔧 Exploring harness engineering and developer productivity.</li>
+    <li> 🌍 Contributing to open source and sharing ideas through writing.</li>
+    <!-- <li> 📝 More at [blog.nnxx.me](blog.nnxx.me).</li> -->
 </ul>
 
 <!--Trap--:)-->
@@ -149,6 +149,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 Linux System Programer, Embeded Linux engineer.
 - 🌱 My Skill | 我的技术: C/C++, Linux Device Driver, Linux System Program, Linux System architecture,  IOT, IPC/DVR/NVR, ETC
-- 📫 My blog | 个人博客: https://blog.lxip.top/
+- 📫 My blog | 个人博客: https://blog.nnxx.me/
 -->
 
